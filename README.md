@@ -14,7 +14,6 @@ Data sources:
 - [ ] Fight Odds
 - [ ] MMA Decisions
 - [ ] Sherdog
-- [ ] Tapology (tentative)
 - [ ] UFC Stats
 - [x] Wikipedia
 

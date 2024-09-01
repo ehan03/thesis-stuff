@@ -6,6 +6,9 @@ from scrapy import Field, Item
 # local imports
 
 
+# Bet MMA items
+
+
 # UFC Stats items
 class UFCStatsFighterItem(Item):
     id = Field()
